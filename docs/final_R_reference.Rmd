@@ -1,0 +1,34 @@
+---
+title: "final_R_reference.Rmd"
+author: "David Murillo"
+date: '2022-11-08'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# R Reference Guide {.tabset .tabset-pills}
+
+
+## Loading Data and Packages
+
+
+## Data structures
+
+```{r}
+require(here)
+require(palmerpenguins)
+
+```
+
+
+## Subsetting 
+
+## Numerical Data Exploratorion
+
+## Graphical Data exploration
+
+## Distribution function
+
